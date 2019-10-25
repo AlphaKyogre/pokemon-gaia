@@ -1,2 +1,2 @@
 # pokemon-gaia
-options>emulator>save type>file 128k
+options>emulator>save type>flash 128k
